@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there👋
+![감성2](https://github.com/user-attachments/assets/60ccc7a1-da89-4e64-a167-e517e58392d2)
 
-## 🌱 Once I've used 🌱
+
+##  Once I've used 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -30,7 +32,7 @@
     </div><br/><br/>
 </div>
 
-## ❤️ My Github stats ❤️ 
+##  My Github stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylvia1213&show_icons=true&theme=radical)
 
 
